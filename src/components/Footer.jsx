@@ -19,7 +19,7 @@ const Footer = () => {
                     near you.
                 </p>
                 <p className="font-semibold text-gray text-xs">
-                    or call 800-171-7171{' '}
+                    or call 000800-171-7171{' '}
                     </p>
             </div>
             <div className='bg-neutral-700 my-5 h-[1px] w-full' />
