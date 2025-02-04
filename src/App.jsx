@@ -8,7 +8,7 @@ import * as Sentry from "@sentry/react";
 import Features from "./components/Features";
 import HowItWorks from "./components/HowItWorks";
 
-
+import Item from "./components/ListItems/Item"
 
 const App = () => {
  
